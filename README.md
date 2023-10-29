@@ -1,4 +1,4 @@
-# iBD Projects Repository
+# Introduction To Databases Projects Repository
 
 This repository contains projects related to the Database (iBD) subject. The projects are organized based on the topics covered during the course.
 
